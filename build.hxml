@@ -1,0 +1,13 @@
+-cp src
+-js bin/haxe/raytracer.js
+-dce full
+-D analyzer
+-main Main
+
+--next
+
+-cp src
+-swf bin/haxe/raytracer.swf
+-dce full
+-D analyzer
+-main Main

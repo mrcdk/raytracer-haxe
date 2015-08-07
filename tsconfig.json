@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "out": "bin/typescript/raytracer.js"
+    },
+    "files": [
+        "src/raytracer.ts"
+    ]
+}
